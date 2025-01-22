@@ -1,0 +1,85 @@
+[
+
+  {
+    "nivel": "A1",
+    "idiomaIngles": "Inglés",
+    "temarioIngles": ["Saludos y presentaciones",
+    "El alfabeto",
+    "Números del 1 al 100",
+    "Días de la semana y meses del año",
+    "Expresiones de tiempo (horas, fechas)",
+    "Verbos básicos (to be, to have, etc.)",
+    "Vocabulario básico de la familia y la casa",
+    "Colores, ropa y partes del cuerpo",
+    "Frases y preguntas comunes",
+    "Uso de adjetivos posesivos"]
+  },
+
+  {
+    "nivel": "A1",
+    "idiomaAleman":  "Aleman",
+    "temarioAleman": [
+    "Saludos y presentaciones",
+    "El alfabeto alemán",
+    "Números del 1 al 100",
+    "Días de la semana y meses del año",
+    "Pronombres personales y verbos básicos",
+    "Vocabulario de la familia y la casa",
+    "Colores y ropa",
+    "Frases comunes en situaciones cotidianas",
+    "Preposiciones básicas",
+    "Expresión de gustos y preferencias"
+  ]
+  },
+
+  {
+    "nivel": "A1",
+    "idiomaFrances": "Francés",
+    "temarioFrances": [
+      "Saludos y presentaciones",
+      "El alfabeto francés",
+      "Números del 1 al 100",
+      "Los días de la semana y los meses",
+      "Verbos básicos (être, avoir, etc.)",
+      "La familia y la casa",
+      "Colores, ropa y partes del cuerpo",
+      "Preguntas y respuestas básicas",
+      "Adjetivos posesivos",
+      "Vocabulario básico de la ciudad y lugares"
+    ]
+
+  },
+  {
+    "nivel" : "A1",
+    "idiomaMandarin": "Mandarín",
+    "temarioMandarin": [
+      "Saludos y presentaciones",
+      "El alfabeto Pinyin",
+      "Números del 1 al 100",
+      "Los días de la semana y los meses",
+      "Pronombres personales",
+      "Verbos básicos (ser, tener, etc.)",
+      "La familia y la casa",
+      "Vocabulario básico (colores, objetos comunes)",
+      "Frases sencillas y preguntas comunes",
+      "Tonos en mandarín"
+    ]
+
+  },
+  {
+    "nivel" : "A1",
+    "idiomaPortugues": "Portugués",
+    "temarioPortugues": [
+      "Saludos y presentaciones",
+      "El alfabeto portugués",
+      "Números del 1 al 100",
+      "Días de la semana y meses del año",
+      "Frases comunes de cortesía",
+      "Verbos básicos (ser, estar, tener)",
+      "Vocabulario de la familia y la casa",
+      "Colores, ropa y partes del cuerpo",
+      "La hora y fechas",
+      "Adjetivos posesivos y demostrativos"
+    ]
+  }
+]
