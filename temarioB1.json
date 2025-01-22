@@ -1,0 +1,82 @@
+[
+  {
+    "nivel": "B1",
+    "idiomaIngles": "Inglés",
+    "temarioIngles": [
+      "Relatos sobre experiencias pasadas",
+      "Planes y objetivos futuros",
+      "Vocabulario avanzado sobre trabajo y estudios",
+      "Comprensión y uso de la voz pasiva",
+      "Expresión de emociones y opiniones",
+      "Vocabulario sobre tecnología y medios",
+      "Frases y expresiones idiomáticas comunes",
+      "Descripciones detalladas de lugares y eventos",
+      "Uso de condicionales básicos",
+      "Práctica de habilidades de discusión y debate"
+    ]
+  },
+  {
+    "nivel": "B1",
+    "idiomaAleman": "Alemán",
+    "temarioAleman": [
+      "Conversaciones sobre experiencias personales",
+      "Planificación de actividades y eventos",
+      "Vocabulario sobre temas laborales y educativos",
+      "Comprensión y uso de la voz pasiva",
+      "Expresión de sentimientos y opiniones",
+      "Frases idiomáticas básicas",
+      "Descripciones detalladas de lugares y situaciones",
+      "Uso de oraciones condicionales básicas",
+      "Práctica de la escritura de correos y mensajes",
+      "Comprensión lectora de textos simples"
+    ]
+  },
+  {
+    "nivel": "B1",
+    "idiomaFrances": "Francés",
+    "temarioFrances": [
+      "Relatos sobre experiencias pasadas",
+      "Hablar de planes y metas futuras",
+      "Vocabulario sobre temas académicos y profesionales",
+      "Comprensión de estructuras pasivas",
+      "Expresión de emociones y sentimientos",
+      "Frases y expresiones idiomáticas",
+      "Descripciones detalladas de lugares y eventos",
+      "Uso de condicionales simples",
+      "Práctica de diálogos en situaciones comunes",
+      "Comprensión de textos narrativos básicos"
+    ]
+  },
+  {
+    "nivel": "B1",
+    "idiomaMandarin": "Mandarín",
+    "temarioMandarin": [
+      "Hablar sobre experiencias personales",
+      "Planes y actividades futuras",
+      "Vocabulario sobre temas educativos y laborales",
+      "Expresión de opiniones y sentimientos",
+      "Frases para expresar deseos y condiciones",
+      "Estructuras para narrar historias simples",
+      "Vocabulario relacionado con tecnología",
+      "Uso de conectores básicos en narraciones",
+      "Comprensión de textos breves",
+      "Práctica de diálogos en situaciones formales"
+    ]
+  },
+  {
+    "nivel": "B1",
+    "idiomaPortugues": "Portugués",
+    "temarioPortugues": [
+      "Relatos de experiencias pasadas",
+      "Hablar sobre planes futuros",
+      "Vocabulario sobre tecnología y educación",
+      "Uso y comprensión de la voz pasiva",
+      "Expresión de sentimientos y emociones",
+      "Frases y expresiones idiomáticas comunes",
+      "Descripciones de lugares y eventos",
+      "Uso de condicionales simples",
+      "Comprensión lectora de textos informativos",
+      "Práctica de habilidades de escritura formal"
+    ]
+  }
+]
