@@ -1,0 +1,82 @@
+[
+  {
+    "nivel": "A2",
+    "idiomaIngles": "Inglés",
+    "temarioIngles": [
+      "Descripciones de personas y lugares",
+      "Rutinas diarias y actividades",
+      "Vocabulario de comida y bebida",
+      "El tiempo atmosférico",
+      "Pasado simple de verbos regulares e irregulares",
+      "Comparativos y superlativos",
+      "Vocabulario relacionado con viajes y transporte",
+      "Preguntas y respuestas sobre experiencias pasadas",
+      "Uso de preposiciones de lugar y movimiento",
+      "Frases y vocabulario para compras"
+    ]
+  },
+  {
+    "nivel": "A2",
+    "idiomaAleman": "Alemán",
+    "temarioAleman": [
+      "Descripciones de personas y lugares",
+      "La rutina diaria y los hobbies",
+      "Vocabulario de alimentos y bebidas",
+      "El tiempo y las estaciones",
+      "Uso de casos nominativo, acusativo y dativo",
+      "Comparativos y superlativos",
+      "Preguntas y respuestas sobre actividades diarias",
+      "Preposiciones de lugar y direcciones",
+      "Frases comunes en restaurantes y tiendas",
+      "Vocabulario sobre transporte y viajes"
+    ]
+  },
+  {
+    "nivel": "A2",
+    "idiomaFrances": "Francés",
+    "temarioFrances": [
+      "Descripciones de personas, lugares y objetos",
+      "La rutina diaria y actividades frecuentes",
+      "Vocabulario de alimentos y bebidas",
+      "El tiempo meteorológico y las estaciones",
+      "Pasado compuesto y presente continuo",
+      "Uso de preposiciones para describir ubicaciones",
+      "Preguntas comunes sobre experiencias y gustos",
+      "Vocabulario relacionado con viajes y transporte",
+      "Frases para realizar compras",
+      "Expresión de preferencias y opiniones"
+    ]
+  },
+  {
+    "nivel": "A2",
+    "idiomaMandarin": "Mandarín",
+    "temarioMandarin": [
+      "Descripciones básicas de personas y lugares",
+      "Rutinas diarias y horarios",
+      "Vocabulario de alimentos y bebidas",
+      "Expresión del tiempo y estaciones",
+      "Estructura de oraciones con verbo + objeto",
+      "Preguntas sobre actividades cotidianas",
+      "Uso de preposiciones comunes",
+      "Frases para situaciones de compra y viaje",
+      "Números avanzados y cálculos básicos",
+      "Vocabulario y frases para expresar opiniones"
+    ]
+  },
+  {
+    "nivel": "A2",
+    "idiomaPortugues": "Portugués",
+    "temarioPortugues": [
+      "Descripciones simples de personas y lugares",
+      "Actividades diarias y rutinas",
+      "Vocabulario de alimentos y bebidas",
+      "Hablar sobre el clima y las estaciones",
+      "Pasado simple de verbos regulares e irregulares",
+      "Uso de comparativos y superlativos",
+      "Frases para situaciones de viaje y transporte",
+      "Preguntas y respuestas sobre experiencias",
+      "Preposiciones de lugar y movimiento",
+      "Vocabulario para compras y restaurantes"
+    ]
+  }
+]

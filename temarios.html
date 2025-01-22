@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Temario CamaLing</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="icon" href="img/icon.png" type="icon">
+
+</head>
+<body>
+<div id="marco"><h1 id="titulo">Información CamaLing</h1></div>
+<img id="logo" src="img/LogoCamaleon.gif" alt="Logo" width="300">
+
+<div id="menu">
+    <button class="idiomas" onclick="window.location.href='index.html'">Idiomas</button>
+    <button class="cursos" onclick="window.location.href='temarios.html'">Cursos</button>
+    <button class="inscripcion" onclick="window.location.href='inscripcion.html'">Inscripción</button>
+</div>
+<br>
+<div class="grid-container">
+    <div class="grid-item" id="a1">
+        <h1>A1</h1>
+    </div>
+    <div class="grid-item" id="a2">
+        <h1>A2</h1>
+    </div>
+    <div class="grid-item" id="b1">
+        <h1>B1</h1>
+    </div>
+    <div class="grid-item" id="b2">
+        <h1>B2</h1>
+    </div>
+    <div class="grid-item" id="c1">
+        <h1>C1</h1>
+    </div>
+    <div class="grid-item" id="c2">
+        <h1>C2</h1>
+    </div>
+</div>
+
+<br>
+<table>
+    <thead>
+    <tr>
+        <th>Nivel</th>
+        <th>Idioma</th>
+        <th>Temario</th>
+    </tr>
+    </thead>
+    <tbody>
+    <!-- Aquí se agregarán los datos dinámicamente -->
+    <tr>
+        <td id="nivelI">Nivel</td>
+        <td id="idiomaIngles">Idioma</td>
+        <td id="temarioIngles">Temario del idioma seleccionado</td>
+    </tr>
+    <tr>
+        <td id="nivelA">Nivel</td>
+        <td id="idiomaAleman">Idioma</td>
+        <td id="temarioAleman">Temario del idioma seleccionado</td>
+    </tr>
+    <tr>
+        <td id="nivelF">Nivel</td>
+        <td id="idiomaFrances">Idioma</td>
+        <td id="temarioFrances">Temario del idioma seleccionado</td>
+    </tr>
+    <tr>
+        <td id="nivelM">Nivel</td>
+        <td id="idiomaMandarin">Idioma</td>
+        <td id="temarioMandarin">Temario del idioma seleccionado</td>
+    </tr>
+    <tr>
+        <td id="nivelP">Nivel</td>
+        <td id="idiomaPortugues">Idioma</td>
+        <td id="temarioPortugues">Temario del idioma seleccionado</td>
+    </tr>
+
+    </tbody>
+</table>
+<script src="js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inscripcion CamaLing</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="icon" href="img/icon.png" type="icon">
+
+</head>
+<body>
+<div id="marco"><h1 id="titulo">Inscribir Curso </h1></div>
+<img id="logo" src="img/LogoCamaleon.gif" alt="Logo" width="300">
+<div id="menu">
+    <button class="idiomas" onclick="window.location.href='index.html'">Idiomas</button>
+    <button class="cursos" onclick="window.location.href='temarios.html'">Cursos</button>
+    <button class="inscripcion" onclick="window.location.href='inscripcion.html'">Inscripción</button>
+</div>
+
+<div id="FormatoInscripcion">
+    <!-- Campo para Nombre -->
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+
+    <!-- Campo para Apellidos -->
+    <label for="apellidos">Apellidos:</label>
+    <input type="text" id="apellidos" name="apellidos" placeholder="Escribe tus apellidos" required>
+
+    <!-- Campo para Edad -->
+    <label for="edad">Edad:</label>
+    <input type="number" id="edad" name="edad" placeholder="Ingresa tu edad" min="10" max="50" required>
+
+    <!-- Campo para Idioma -->
+    <label for="idioma">Idioma:</label>
+    <select id="idioma" name="idioma" required>
+        <option value="">Selecciona un idioma</option>
+        <option value="ingles">Inglés</option>
+        <option value="aleman">Alemán</option>
+        <option value="frances">Francés</option>
+        <option value="mandarin">Mandarín</option>
+        <option value="portugues">Portugués</option>
+    </select>
+
+    <!-- Campo para Nivel -->
+    <label for="nivel">Nivel:</label>
+    <select id="nivel" name="nivel" required>
+        <option value="">Selecciona un nivel</option>
+        <option value="a1">A1</option>
+        <option value="a2">A2</option>
+        <option value="b1">B1</option>
+        <option value="b2">B2</option>
+        <option value="c1">C1</option>
+        <option value="c2">C2</option>
+    </select>
+
+    <!-- Campo para Turno -->
+    <label for="turno">Turno:</label>
+    <select id="turno" name="turno" required>
+        <option value="">Selecciona un turno</option>
+        <option value="matutino">Matutino</option>
+        <option value="vespertino">Vespertino</option>
+    </select>
+
+    <!-- Campo para Correo -->
+    <label for="correo">Correo Electrónico:</label>
+    <input type="email" id="correo" name="correo" placeholder="Escribe tu correo" required>
+
+    <!--Campo para vizualizar los inscritos-->
+    <label for="Inscritos">Usuarios Inscritos</label>
+    <select id="Inscritos">
+        <option value="">---Selecciona--</option>
+    </select><br><br>
+
+    <!-- Botones-->
+    <button id="BotonIns" type="submit" >Inscribir</button>
+    <button id="BotonAct" type="submit" >Actualizar</button>
+    <button id="CancelarInscripción" >Cancelar</button>
+    <button id="Limpiar" type="submit" >Limpiar</button>
+</div>
+
+<script type="module" src="js/indexC.js"></script>
+</body>
+</html>

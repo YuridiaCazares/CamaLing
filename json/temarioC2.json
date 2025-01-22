@@ -1,0 +1,82 @@
+[
+  {
+    "nivel": "C2",
+    "idiomaIngles": "Inglés",
+    "temarioIngles": [
+      "Dominio total de estructuras gramaticales avanzadas",
+      "Redacción de textos argumentativos y académicos complejos",
+      "Participación en debates formales y paneles de discusión",
+      "Análisis crítico de textos literarios y técnicos",
+      "Comprensión auditiva de diferentes acentos y registros",
+      "Uso avanzado de expresiones idiomáticas y coloquiales",
+      "Dominio del lenguaje persuasivo en discursos y presentaciones",
+      "Interpretación y síntesis de información de fuentes diversas",
+      "Redacción creativa y profesional con precisión",
+      "Práctica intensiva de traducción y mediación cultural"
+    ]
+  },
+  {
+    "nivel": "C2",
+    "idiomaAleman": "Alemán",
+    "temarioAleman": [
+      "Uso experto de gramática y vocabulario avanzado",
+      "Redacción de textos académicos y literarios complejos",
+      "Debates críticos sobre temas filosóficos y culturales",
+      "Análisis detallado de obras literarias y científicas",
+      "Comprensión auditiva de discursos con alta complejidad",
+      "Uso preciso de modismos y expresiones regionales",
+      "Preparación y entrega de presentaciones persuasivas",
+      "Dominio del lenguaje formal e informal en contextos profesionales",
+      "Traducción y adaptación de textos avanzados",
+      "Práctica intensiva de interpretación simultánea"
+    ]
+  },
+  {
+    "nivel": "C2",
+    "idiomaFrances": "Francés",
+    "temarioFrances": [
+      "Producción y análisis de textos de alta complejidad",
+      "Debates avanzados sobre temas políticos, culturales y filosóficos",
+      "Comprensión y análisis de literatura clásica y contemporánea",
+      "Dominio de registros formales e informales en el discurso oral",
+      "Preparación de discursos y ensayos argumentativos",
+      "Uso y creación de expresiones idiomáticas avanzadas",
+      "Redacción y revisión de documentos técnicos y académicos",
+      "Comprensión auditiva de discursos especializados",
+      "Práctica intensiva en mediación cultural y lingüística",
+      "Traducción avanzada y adaptación de textos complejos"
+    ]
+  },
+  {
+    "nivel": "C2",
+    "idiomaMandarin": "Mandarín",
+    "temarioMandarin": [
+      "Dominio total de estructuras gramaticales avanzadas",
+      "Redacción de textos técnicos, académicos y creativos",
+      "Análisis crítico de textos literarios y científicos complejos",
+      "Participación en discusiones y debates de alto nivel",
+      "Comprensión auditiva de discursos formales y coloquiales",
+      "Uso avanzado de modismos, proverbios y expresiones idiomáticas",
+      "Preparación de presentaciones persuasivas en diversos contextos",
+      "Traducción precisa de textos especializados",
+      "Adaptación cultural y mediación lingüística",
+      "Dominio del lenguaje técnico en áreas específicas"
+    ]
+  },
+  {
+    "nivel": "C2",
+    "idiomaPortugues": "Portugués",
+    "temarioPortugues": [
+      "Dominio total de estructuras gramaticales y vocabulario técnico",
+      "Redacción avanzada de ensayos y textos especializados",
+      "Participación en debates filosóficos, políticos y culturales",
+      "Análisis crítico de literatura y medios de comunicación",
+      "Comprensión auditiva de discursos académicos y coloquiales",
+      "Uso experto de expresiones idiomáticas y regionales",
+      "Preparación y ejecución de discursos persuasivos",
+      "Práctica avanzada de mediación cultural y lingüística",
+      "Traducción y adaptación de textos de alta complejidad",
+      "Dominio del lenguaje formal e informal en todos los registros"
+    ]
+  }
+]
