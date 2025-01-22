@@ -63,7 +63,7 @@ document.getElementById('a1').addEventListener('click', function (){
         //Hacemos el fetch para nivel A1
 
     //Conexión con archivos JSON para el index "temarios"
-        fetch('../json/temarioA1.json')
+        fetch('CamaLing/json/temarioA1.json')
             .then(response => response.json())
             .then(data => {
 
