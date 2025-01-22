@@ -110,7 +110,7 @@ document.getElementById('a2').addEventListener('click', function (){
 
     //Hacemos el fetch para nivel A2
 
-    fetch('../json/temarioA2.json')
+    fetch('temarioA2.json')
         .then(response => response.json())
         .then(data => {
 
@@ -157,7 +157,7 @@ document.getElementById('b1').addEventListener('click', function (){
 
 //Hacemos el fetch para nivel B1
 
-fetch('../json/temarioB1.json')
+fetch('temarioB1.json')
     .then(response => response.json())
     .then(data => {
 
@@ -202,7 +202,7 @@ document.getElementById('b2').addEventListener('click', function (){
 
 //Hacemos el fetch para nivel B2
 
-    fetch('../json/temarioB2.json')
+    fetch('temarioB2.json')
         .then(response => response.json())
         .then(data => {
 
@@ -247,7 +247,7 @@ document.getElementById('c1').addEventListener('click', function (){
 
 //Hacemos el fetch para nivel C1
 
-    fetch('../json/temarioC1.json')
+    fetch('temarioC1.json')
         .then(response => response.json())
         .then(data => {
 
@@ -293,7 +293,7 @@ document.getElementById('c2').addEventListener('click', function (){
 
 //Hacemos el fetch para nivel C2
 
-    fetch('../json/temarioC2.json')
+    fetch('temarioC2.json')
         .then(response => response.json())
         .then(data => {
 
